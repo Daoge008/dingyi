@@ -2,7 +2,7 @@
 
 * [域名](domain.md)
 * [身份认证](auth.md)
-* [返回说明](response.md)
+* [返回说明](httpResponse.md)
 ## API List
 
 * [投保](api/post_policy.md)
